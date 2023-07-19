@@ -2,8 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ducktanium&label=Profile%20views&color=7d3239&style=flat-square" alt="ducktanium" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ducktanium" alt="ducktanium" /></a> </p>
-<img align=“right” alt=“coding” width=“400” src=“[![image](https://github.com/DuckTanium/DuckTanium/assets/139969632/f5fef2c3-023e-4844-b519-2912a16c0776)](https://images.app.goo.gl/E7BmP9JH66opura2A)
-”>
 - I’m currently learning **Assembly**
 
 - How to reach me **darktitan647@gmail.com**
